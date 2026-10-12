@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Anuj Magazine. The person with the problem can now build the solution.</title>
+  <desc id="d">Banner for Anuj Magazine's GitHub: local-first apps and AI skills built for real problems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F8FBF4"/>
+      <stop offset="1" stop-color="#E6EFDC"/>
+    </linearGradient>
+    <linearGradient id="tri" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7FB04E"/>
+      <stop offset="1" stop-color="#D3E5C2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+
+  <!-- decorative shapes, right side -->
+  <circle cx="1095" cy="180" r="190" fill="none" stroke="#5E9B2F" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1095" cy="180" r="140" fill="none" stroke="#5E9B2F" stroke-opacity="0.22" stroke-width="2"/>
+  <polygon points="1050,56 1050,304 920,180" fill="url(#tri)" opacity="0.9"/>
+  <circle cx="1110" cy="180" r="52" fill="none" stroke="#4F8A1E" stroke-width="15"/>
+  <circle cx="1110" cy="180" r="8" fill="#4F8A1E"/>
+  <g fill="#5E9B2F" fill-opacity="0.35">
+    <circle cx="1150" cy="44" r="2.5"/><circle cx="1166" cy="44" r="2.5"/><circle cx="1182" cy="44" r="2.5"/>
+    <circle cx="1150" cy="60" r="2.5"/><circle cx="1166" cy="60" r="2.5"/><circle cx="1182" cy="60" r="2.5"/>
+    <circle cx="1150" cy="76" r="2.5"/><circle cx="1166" cy="76" r="2.5"/><circle cx="1182" cy="76" r="2.5"/>
+  </g>
+
+  <!-- text -->
+  <rect x="70" y="62" width="44" height="4" fill="#4F8A1E"/>
+  <text x="70" y="98" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#3E7A1C">ANUJ MAGAZINE  ·  BUILDER  ·  CO-FOUNDER &amp; CTO, AI&amp;BEYOND</text>
+  <text x="70" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#16210F">The person with the problem</text>
+  <text x="70" y="238" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#16210F">can now build the solution.</text>
+  <text x="70" y="294" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#3A4A30">Local-first apps and AI skills, built for real problems and used every day.</text>
+</svg>
