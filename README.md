@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Anuj Magazine. The person with the problem can now build the solution." width="100%">
+  <picture>
+    <img src="assets/banner.svg" alt="Anuj Magazine. The person with the problem can now build the solution." width="100%">
+  </picture>
 </div>
 
 # Anuj Magazine
@@ -11,7 +13,9 @@ This profile is something else. It is my experimentation ground: the place where
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/4F8A1E/anujmagazine" alt="Anuj Magazine's GitHub contributions over the last year" width="100%">
+  <picture>
+    <img src="https://ghchart.rshah.org/4F8A1E/anujmagazine" alt="Anuj Magazine's GitHub contributions over the last year" width="100%">
+  </picture>
   <br>
   <sub>My GitHub activity over the last year</sub>
 </div>
