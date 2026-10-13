@@ -10,6 +10,14 @@ This profile is something else. It is my experimentation ground: the place where
 
 <br>
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/4F8A1E/anujmagazine" alt="Anuj Magazine's GitHub contributions over the last year" width="100%">
+  <br>
+  <sub>My GitHub activity over the last year</sub>
+</div>
+
+<br>
+
 ## The shift
 
 For most of the history of software, if nothing existed for your problem, you had two choices. Wait for someone to build it, or live with it.
